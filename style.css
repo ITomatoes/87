@@ -1,0 +1,32 @@
+.body_backgorund 
+{
+    background-image:url("notdudes.jpg.crdownload");
+    background-position:center;
+    background-size:cover;
+}
+#myCanvas
+{
+    border-width:10px;
+    background-color: white; 
+    border-style:ridge;
+    border-color: rgb(195, 236, 245);
+}
+
+h3
+{
+    color:white;
+	width: 1000px;
+	background-color: black;
+	display: inline-block;
+
+}
+
+b
+{
+    color: white;
+}
+
+i
+{
+    color: white;
+}
